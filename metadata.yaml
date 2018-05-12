@@ -1,0 +1,46 @@
+_repo: Back-to-Methuselah--A-Metabiological-Pentateuch_13084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, George Bernard
+    - Shaw, Bernhard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: "Back to Methuselah (A Metabiological Pentateuch) by George Bernard Shaw\
+  \ consists of a preface (An Infidel Half Century) and a series of five plays: In\
+  \ the Beginning: B.C. 4004 (In the Garden of Eden), The Gospel of the Brothers Barnabas:\
+  \ Present Day, The Thing Happens: A.D. 2170, Tragedy of an Elderly Gentleman: A.D.\
+  \ 3000, and As Far as Thought Can Reach: A.D. 31,920.\nAll were written during 1918–20,\
+  \ published simultaneously by Constable (London) and Brentano's (New York) in 1921,\
+  \ and first performed in the United States in 1922 by the New York Theatre Guild\
+  \ at the old Garrick Theatre, New York and, in Britain, at the Birmingham Repertory\
+  \ Theatre in 1923.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13084'
+  wikidata: Q4839430
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Drama'
+tableOfContents: 'Preface -- In the Beginning: B.C. 4004 (In the Garden of Eden) --
+  The Gospel of the Brothers Barnabas: Present Day -- The Thing Happens: A.D. 2170
+  -- Tragedy of an Elderly Gentleman: A.D. 3000 -- As Far as Thought Can Reach: A.D.
+  31,920.'
+title: 'Back to Methuselah: A Metabiological Pentateuch'
+url: http://www.gutenberg.org/ebooks/13084
+wikipedia:
+- https://cs.wikipedia.org/wiki/Zp%C4%9Bt_k_Methusalemovi
+- https://en.wikipedia.org/wiki/Back_to_Methuselah
