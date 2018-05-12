@@ -23,6 +23,8 @@ description: "Back to Methuselah (A Metabiological Pentateuch) by George Bernard
   \ and first performed in the United States in 1922 by the New York Theatre Guild\
   \ at the old Garrick Theatre, New York and, in Britain, at the Birmingham Repertory\
   \ Theatre in 1923.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13084#Back-to-Methuselah--A-Metabiological-Pentateuch
 gutenberg_issued: '2004-08-02'
 gutenberg_type: Text
 identifiers:
